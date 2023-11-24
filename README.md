@@ -2,7 +2,7 @@
 
 Tämä oli Haaga-Helian kurssi keskitetystä hallinnasta. 
 
-Tunneilla kätettiin saltstack open-source ohjelmaa, unix ympäristössä. Käyttöjärjestelmät painottu enemmän debian-byllseye 11 ja ubuntu.
+Tunneilla käytettiin saltstack open-source ohjelmaa, unix ympäristössä. Käyttöjärjestelmät painottu enemmän debian-byllseye 11 ja ubuntu.
 
 Alhaalta löytyy linkit kaikkiin harjoituksiin joita olen tehnyt, kurssilla [Palvelinten hallinta - ICT4TN022-3014](https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-2021-autumn/)
 
